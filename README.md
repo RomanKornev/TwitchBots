@@ -12,4 +12,6 @@ If a channel has > 50% viewers not in chat - it's probably viewbotting.
 
 [Click](http://click.pocoo.org/5/) - Command Line Interface Creation Kit
 
-``` pip install click```
+[Requests](http://docs.python-requests.org/en/latest/) - HTTP for Humans
+
+``` pip install click requests```
