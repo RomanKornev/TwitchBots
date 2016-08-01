@@ -1,7 +1,5 @@
 import requests
 import click
-import sys
-
 
 @click.command()
 @click.argument('channel')
